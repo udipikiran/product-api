@@ -136,7 +136,7 @@ output application/json
   productId: 72341,
   productName: "Test mulesoft Course",
   productProvider: "Udemy",
-  productDescription: "Testing the Maven Course"
+  productDescription: "Testing the Mulesoft Course"
 } as Object {encoding: "UTF-8", mediaType: "application/json"}]]></ee:set-payload>
             </ee:message>
         </ee:transform>
